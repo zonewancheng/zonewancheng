@@ -9,6 +9,7 @@
 ███████╗╚██████╔╝██║ ╚████║███████╗ 
 ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝  
 ```
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=zonewancheng.zonewancheng)
 
 ### My Sites
 * 📄 <a target="_blank" href="https://blog.oospace.com">blog.oospace.com</a>
